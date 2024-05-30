@@ -23,7 +23,7 @@ const CONFIG = {
 	greetingNight: "I'm calling the police, ",
 
 	// Layout
-	bentoLayout: 'button', // 'bento', 'lists', 'buttons'
+	bentoLayout: 'buttons', // 'bento', 'lists', 'buttons'
 
 	// Weather
 	weatherKey: 'InsertYourAPIKeyHere123456', // Write here your API Key
